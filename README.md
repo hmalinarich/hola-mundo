@@ -1,2 +1,3 @@
 # hola-mundo
-repositorio inicial
+Hola Mundo
+Primer repositorio de prueba
